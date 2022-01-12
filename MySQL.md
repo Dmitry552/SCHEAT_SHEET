@@ -1,4 +1,4 @@
-# MySQL
+# [MySQL](https://metanit.com/sql/mysql/1.1.php)
 
 ## Создание и удаление базы данных
 ```SQL
